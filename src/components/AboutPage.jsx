@@ -46,8 +46,8 @@ const AboutPage = () => {
 
           <div className="mb-4 flex flex-col items-center gap-4 sm:flex-row">
             <img
-              src="https://github.com/CodeWithAlamin.png"
-              alt="Alamin's Photo"
+              src="https://files.catbox.moe/50a3fo.jpg"
+              alt="HACKLLINKTECH's Photo"
               className="h-36 w-36 rounded-md"
             />
 
@@ -65,7 +65,7 @@ const AboutPage = () => {
 
           <div className="flex flex-wrap items-center justify-center gap-2 text-textAccent dark:text-textAccent-dark">
             <a
-              href="https://www.linkedin.com/in/CodeWithAlamin"
+              href="www.hacklink.hacklinktech.site"
               className="flex items-center hover:underline"
               target="_blank"
               rel="noopener noreferrer"
@@ -73,7 +73,7 @@ const AboutPage = () => {
               <FaLinkedin className="mr-2" /> LinkedIn
             </a>
             <a
-              href="https://twitter.com/CodeWithAlamin"
+              href="www.hacklink.hacklinktech.site"
               className="flex items-center hover:underline"
               target="_blank"
               rel="noopener noreferrer"
@@ -81,7 +81,7 @@ const AboutPage = () => {
               <FaTwitter className="mr-2" /> X (Twitter)
             </a>
             <a
-              href="https://github.com/CodeWithAlamin"
+              href="www.hacklink.hacklinktech.site"
               className="flex items-center hover:underline"
               target="_blank"
               rel="noopener noreferrer"
@@ -93,7 +93,7 @@ const AboutPage = () => {
 
         <section className="mt-8 grid grid-cols-1 grid-rows-2 gap-2 sm:grid-cols-2 sm:grid-rows-1">
           <a
-            href="https://github.com/CodeWithAlamin/Convayto"
+            href="www.hacklink.hacklinktech.site"
             className="flex items-center justify-center rounded-lg bg-gray-800 px-6 py-3 text-white hover:bg-gray-700"
             target="_blank"
             rel="noopener noreferrer"
@@ -103,7 +103,7 @@ const AboutPage = () => {
           </a>
 
           <a
-            href="https://convayto.vercel.app"
+            href="www.hacklink.hacklinktech.site"
             className="flex items-center justify-center rounded-lg bg-textAccent px-6 py-3 text-white hover:bg-textAccentDim dark:bg-textAccentDim dark:hover:bg-textAccentDim-dark"
             rel="noopener noreferrer"
           >
@@ -116,12 +116,12 @@ const AboutPage = () => {
           <p>
             © Copyright by{" "}
             <a
-              href="https://www.linkedin.com/in/CodeWithAlamin"
+              href="www.hacklink.hacklinktech.site"
               className="text-blue-500 hover:underline"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Alamin
+              HACKLLINKTECH 
             </a>
             . Licensed under the Apache License 2.0. Do not claim as your own.
           </p>
